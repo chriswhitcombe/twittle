@@ -5,7 +5,9 @@ Example clojure project for spotting important tweets. This will load you home t
 
 ## Installation
 
-Install leiningen 2, move to the root of the project and run lein run.
+* Install leiningen 2
+* Add your twitter oauth credentials in twitter4j.properties
+* Run lein run.
 
 ## License
 
